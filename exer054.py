@@ -1,0 +1,1 @@
+p1 = int(input('Em que ano a 1° pessoa nasceu? '))
